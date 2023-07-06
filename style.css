@@ -1,0 +1,19 @@
+.titleset{
+    background-color:aliceblue;
+    width:180px;
+    height: 40px;
+    font-size: 30px;
+}
+
+.fontset {
+    font-family: 'KBO-Dia-Gothic_bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2304-2@1.0/KBO-Dia-Gothic_bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+#tableset{
+    background-color: cornflowerblue;
+    font-weight: bold;
+}
